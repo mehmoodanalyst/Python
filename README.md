@@ -13,6 +13,7 @@ To see me programming in Python checkout the YouTube channel: <a target="_blank"
 
 
 * [Learning Python, 5th Edition](https://www.amazon.com/gp/product/1449355730/ref=as_li_tl?ie=UTF8&tag=github01d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1449355730&linkId=95e6eaf8c12b9fcd483dd06c1dd53e48)
+
 [![book](https://m.media-amazon.com/images/I/91RcdlPx1CL._AC_UY218_ML3_.jpg)](https://www.amazon.com/gp/product/1449355730/ref=as_li_tl?ie=UTF8&tag=github01d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1449355730&linkId=95e6eaf8c12b9fcd483dd06c1dd53e48)
 
 
