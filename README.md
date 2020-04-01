@@ -78,5 +78,6 @@ Python For Finance Simple Returns |simple_returns.py |   [Program](https://githu
 Resume Scanner |resume_scanner.py |   [Program](https://github.com/randerson112358/Python/blob/master/Resume%20Scanner/resume_scanner.py) | [Blog](https://medium.com/@randerson112358/resume-scanner-2c30f5baf92c) | [YouTube](https://youtu.be/bkigzpBLN6o)
 Python For Finance Portfolio Optimization |portfolio_optimization.py |   [Program](https://github.com/randerson112358/Python/blob/master/portfolio_optimization.py) | [Blog](https://medium.com/@randerson112358/python-for-finance-portfolio-optimization-66882498847) | [YouTube](https://youtu.be/9fjs8FeLMJk)
 Python For Finance Cryptocurrency Analysis |crypto_currency_analysis.py |   [Program](https://github.com/randerson112358/Python/blob/master/Crypto_Currency_Analysis/crypto_currency_analysis.py) | [Blog](https://medium.com/@randerson112358/python-for-finance-cryptocurrency-analysis-661ebd410fac) | [YouTube](https://youtu.be/j98smr5zsp8)
+Twitter Sentiment Analysis |Twitter_Sentiment_Analysis.ipynb |   [Program](https://github.com/randerson112358/Python/blob/master/Twitter/Twitter_Sentiment_Analysis.ipynb) | [Blog](https://medium.com/better-programming/twitter-sentiment-analysis-15d8892c0082) | [YouTube](https://youtu.be/ujId4ipkBio)
 
 
