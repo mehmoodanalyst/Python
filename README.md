@@ -20,6 +20,7 @@ To see me programming in Python checkout the YouTube channel: <a target="_blank"
 
 * [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/gp/product/1491962291/ref=as_li_tl?ie=UTF8&tag=github01d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1491962291&linkId=9dec6584d63a7cfcbc32af1ff9737bbf)
 :Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning. Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data. This practical book shows you how. 
+
 [![book](http://akamaicovers.oreilly.com/images/0636920052289/cat.gif)](https://www.amazon.com/gp/product/1491962291/ref=as_li_tl?ie=UTF8&tag=github01d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1491962291&linkId=9dec6584d63a7cfcbc32af1ff9737bbf)
 
 * [Python Data Science Handbook: Essential Tools for Working with Data](https://www.amazon.com/gp/product/1491912057/ref=as_li_tl?ie=UTF8&tag=github01d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1491912057&linkId=af650651a6d71fdea49cd5aa95653e1c)
